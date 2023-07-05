@@ -1,6 +1,6 @@
 # Bourse
 
-This project is a React component that displays a candlestick chart using the lightweight-charts library.
+This is a React project that displays a candlestick chart using the `lightweight-charts` library.
 
 
 ## Installation
